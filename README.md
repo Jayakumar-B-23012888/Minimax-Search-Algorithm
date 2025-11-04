@@ -254,7 +254,8 @@ if __name__ == "__main__":
 
 
 
-<img width="1852" height="860" alt="image" src="https://github.com/user-attachments/assets/7a138e60-dc9c-4569-9d08-9e5119f7d5ff" />
+<img width="321" height="876" alt="image" src="https://github.com/user-attachments/assets/c2173a6b-8f71-4c64-bdcd-73a092ea2986" />
+
 
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
